@@ -1,0 +1,19 @@
+
+h1 {
+    color:blue;text-align: center;
+}
+h2{
+    color:blueviolet;text-align: center;
+}
+body {
+    margin:0%;  background-color:bisque
+}
+.by1 {
+    background-color:cyan
+}
+#bya{
+    width: 30%;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
